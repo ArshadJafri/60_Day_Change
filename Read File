@@ -1,0 +1,392 @@
+# 60-Day, 60-Project Full Stack + LLM + DS/ML Learning Plan
+
+## Tech Stack:
+
+* Java
+* Spring Boot
+* JavaScript
+* React JS
+* Python
+* LLM (Large Language Models)
+* Data Science & Machine Learning (DS/ML)
+
+---
+
+## Daily Learning Structure
+
+* **1-1.5 hours per tech** (Learn via crash courses or tutorials)
+* **2-3 hours per project build** (Hands-on coding)
+* **15-30 mins reflection** (Write notes, challenges, GitHub updates)
+
+---
+
+# Detailed Day-by-Day Plan with Resources
+
+## Week 1
+
+### Day 1
+
+**Project:** Basic Calculator CLI
+**Tech:** Java + Python
+**Resources:**
+
+* Java CLI Tutorial: [https://www.w3schools.com/java/java\_user\_input.asp](https://www.w3schools.com/java/java_user_input.asp)
+* Python CLI Basics: [https://realpython.com/python-command-line-arguments/](https://realpython.com/python-command-line-arguments/)
+
+### Day 2
+
+**Project:** Weather API Fetcher
+**Tech:** JS + Python
+**Resources:**
+
+* JS Fetch API: [https://developer.mozilla.org/en-US/docs/Web/API/Fetch\_API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+* Python Requests: [https://realpython.com/python-requests/](https://realpython.com/python-requests/)
+* Free Weather API: [https://www.weatherapi.com/](https://www.weatherapi.com/)
+
+### Day 3
+
+**Project:** To-Do List Backend API
+**Tech:** Spring Boot + Java
+**Resources:**
+
+* Spring Boot REST API: [https://spring.io/guides/gs/rest-service/](https://spring.io/guides/gs/rest-service/)
+
+### Day 4
+
+**Project:** To-Do List Frontend
+**Tech:** JS + React JS
+**Resources:**
+
+* React To-Do Tutorial: [https://www.freecodecamp.org/news/learn-react-by-building-a-simple-to-do-app/](https://www.freecodecamp.org/news/learn-react-by-building-a-simple-to-do-app/)
+
+### Day 5
+
+**Project:** Currency Converter CLI
+**Tech:** Java + Python
+**Resources:**
+
+* Currency API: [https://exchangerate.host/](https://exchangerate.host/)
+* Java API Calls: [https://www.baeldung.com/java-http-request](https://www.baeldung.com/java-http-request)
+
+### Day 6
+
+**Project:** Movie Search App (REST API)
+**Tech:** Spring Boot + JS
+**Resources:**
+
+* Movie DB API: [https://developers.themoviedb.org/3](https://developers.themoviedb.org/3)
+
+### Day 7
+
+**Project:** Random Joke Generator
+**Tech:** Python + React JS
+**Resources:**
+
+* Joke API: [https://icanhazdadjoke.com/api](https://icanhazdadjoke.com/api)
+
+---
+
+## Week 2
+
+### Day 8
+
+**Project:** Book Store CRUD Backend
+**Tech:** Spring Boot + Java
+
+### Day 9
+
+**Project:** Book Store CRUD Frontend
+**Tech:** JS + React JS
+
+### Day 10
+
+**Project:** Chatbot using LLM API
+**Tech:** Python + LLM
+**Resources:**
+
+* OpenAI API Docs: [https://platform.openai.com/docs/](https://platform.openai.com/docs/)
+
+### Day 11
+
+**Project:** Image Gallery App
+**Tech:** React JS + JS
+
+### Day 12
+
+**Project:** Student Management System
+**Tech:** Spring Boot + Java
+
+### Day 13
+
+**Project:** Password Generator Web App
+**Tech:** JS + React JS
+
+### Day 14
+
+**Project:** Blog REST API
+**Tech:** Spring Boot + Java
+
+---
+
+## Week 3
+
+### Day 15
+
+**Project:** Blog Frontend
+**Tech:** React JS + JS
+
+### Day 16
+
+**Project:** News Aggregator
+**Tech:** Python + React JS
+**Resources:**
+
+* News API: [https://newsapi.org/](https://newsapi.org/)
+
+### Day 17
+
+**Project:** User Authentication System
+**Tech:** Spring Boot + Java
+
+### Day 18
+
+**Project:** E-commerce Cart (Frontend)
+**Tech:** JS + React JS
+
+### Day 19
+
+**Project:** Python Web Scraper
+**Tech:** Python + JS (Data Display)
+
+### Day 20
+
+**Project:** LLM Prompt Engineering
+**Tech:** Python + LLM
+
+### Day 21
+
+**Project:** Simple Chat App Backend
+**Tech:** Spring Boot + Java
+
+---
+
+## Week 4
+
+### Day 22
+
+**Project:** Simple Chat App Frontend
+**Tech:** JS + React JS
+
+### Day 23
+
+**Project:** Real-time Currency Prices
+**Tech:** Python + React JS
+
+### Day 24
+
+**Project:** Blog Post Summarizer using LLM
+**Tech:** Python + LLM
+
+### Day 25
+
+**Project:** File Upload Service
+**Tech:** Spring Boot + Java
+
+### Day 26
+
+**Project:** File Gallery UI
+**Tech:** JS + React JS
+
+### Day 27
+
+**Project:** Portfolio Website
+**Tech:** JS + React JS
+
+### Day 28
+
+**Project:** Expense Tracker API
+**Tech:** Spring Boot + Java
+
+### Day 29
+
+**Project:** Expense Tracker UI
+**Tech:** JS + React JS
+
+### Day 30
+
+**Project:** LLM Q\&A Bot (Custom Dataset)
+**Tech:** Python + LLM
+
+---
+
+## Week 5
+
+### Day 31
+
+**Project:** EDA on Titanic Dataset
+**Tech:** Python + Pandas + Matplotlib
+
+### Day 32
+
+**Project:** Linear Regression (House Prices)
+**Tech:** Python + scikit-learn
+
+### Day 33
+
+**Project:** Logistic Regression (Classification)
+**Tech:** Python + scikit-learn
+
+### Day 34
+
+**Project:** Image Classification (MNIST)
+**Tech:** Python + TensorFlow
+
+### Day 35
+
+**Project:** Sentiment Analysis using LLM
+**Tech:** Python + LLM
+
+### Day 36
+
+**Project:** Recommendation System
+**Tech:** Python + Surprise Library
+
+### Day 37
+
+**Project:** K-Means Clustering
+**Tech:** Python + scikit-learn
+
+### Day 38
+
+**Project:** ML Model Deployment (Flask)
+**Tech:** Python + React JS
+
+### Day 39
+
+**Project:** Visualization Dashboard
+**Tech:** JS + React JS
+
+### Day 40
+
+**Project:** Text Classification using LLM
+**Tech:** Python + LLM
+
+---
+
+## Week 6
+
+### Day 41
+
+**Project:** Java Data Structures (Stack, Queue)
+**Tech:** Java + Python
+
+### Day 42
+
+**Project:** Spring Boot API with Token Authentication
+**Tech:** Spring Boot + Java
+
+### Day 43
+
+**Project:** React Form Validation App
+**Tech:** JS + React JS
+
+### Day 44
+
+**Project:** Flask Web API
+**Tech:** Python + React JS
+
+### Day 45
+
+**Project:** Real-Time Chat App using WebSockets
+**Tech:** Spring Boot + React JS
+
+### Day 46
+
+**Project:** Multi-Class Image Classifier
+**Tech:** Python + TensorFlow
+
+### Day 47
+
+**Project:** Data Cleaning Project
+**Tech:** Python + Pandas
+
+### Day 48
+
+**Project:** LLM-Based Email Assistant
+**Tech:** Python + LLM
+
+### Day 49
+
+**Project:** E-commerce Payment Integration
+**Tech:** Spring Boot + JS
+
+### Day 50
+
+**Project:** React Redux State Management
+**Tech:** JS + React JS
+
+---
+
+## Week 7
+
+### Day 51
+
+**Project:** Java OOP Mini System
+**Tech:** Java + Python
+
+### Day 52
+
+**Project:** Spring Boot with MySQL
+**Tech:** Spring Boot + Java
+
+### Day 53
+
+**Project:** React Authentication with Firebase
+**Tech:** JS + React JS
+
+### Day 54
+
+**Project:** Real-Time ML Model Inference
+**Tech:** Python + React JS
+
+### Day 55
+
+**Project:** Blog Summarizer with LLM Fine-tuning
+**Tech:** Python + LLM
+
+### Day 56
+
+**Project:** Flask + React JS Full Stack App
+**Tech:** Python + React JS
+
+### Day 57
+
+**Project:** Advanced Visualization with D3.js
+**Tech:** JS + React JS
+
+### Day 58
+
+**Project:** Recommendation System API
+**Tech:** Python + Spring Boot
+
+### Day 59
+
+**Project:** Portfolio Website with Full Deployment
+**Tech:** JS + React JS
+
+### Day 60
+
+**Project:** Final Capstone (Integrated Full Stack + ML + LLM App)
+**Tech:** All Combined
+
+---
+
+## Daily Tracking
+
+* GitHub commits daily
+* Log reflections and learnings
+* Push code for each project to separate folders or repos
+
+If you want, I can help you build a **template for each project structure** and provide **boilerplate code**. Would you like me to prepare that for you next?
+
+Daily Coding Upskill
