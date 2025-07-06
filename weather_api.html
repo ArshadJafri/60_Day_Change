@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Document</title>
+</head>
+<body>
+    <Script>
+        console.log("Try programiz.pro");
+
+const api_key = '0457baab1c524068849200721250607';
+const baseUrl = 'https://api.weatherapi.com/v1/current.json';
+
+function getWeatherInfo(city){
+
+    const url = `${baseUrl}?key=${api_key}&q=${city}&aqi=yes`;
+
+    fetch(url)
+        .then(response =>{
+            if(!response.ok){
+                throw new Error("Error in response",response.status);
+            }
+            return response.json()
+
+
+        })
+
+        .then(data=>{
+            const location  = data.location.name 
+            const region = data.location.region
+            const condition = data.current.condition.text
+
+            console.log(condition)
+
+        })
+
+        .catch(error=>{
+            console.log("Error fetching Details:", error.message);
+        })
+}
+
+
+getWeatherInfo('Chennai');
+    </Script>
+</body>
+</html>
